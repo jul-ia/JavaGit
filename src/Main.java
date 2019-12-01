@@ -5,11 +5,6 @@ public class Main {
 
         NewClassTest test = new NewClassTest();
         test.numberMethod();
-//
-//        NewClass n = new NewClass();
-//        int number = n.NumberMethod(4, 9);
-//
-//        System.out.println(number);
 
     }
 }
