@@ -6,5 +6,8 @@ public class Main {
         NewClassTest test = new NewClassTest();
         test.numberMethod();
 
+        NewClass n = new NewClass();
+        System.out.println(n.NumberMethod(5, 10));
+
     }
 }
